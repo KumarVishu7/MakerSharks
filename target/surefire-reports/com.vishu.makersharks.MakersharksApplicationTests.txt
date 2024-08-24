@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vishu.makersharks.MakersharksApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.573 s -- in com.vishu.makersharks.MakersharksApplicationTests
